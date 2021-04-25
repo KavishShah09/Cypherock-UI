@@ -42,7 +42,7 @@ function Table() {
                         <th className="table-head text-unselected" scope="col">Holding</th>
                         <th className="table-head text-unselected" scope="col">Value</th>
                         <th className="table-head text-unselected" scope="col">Price</th>
-                        <th className="table-head text-unselected" scope="col"></th>
+                        <th className="table-head text-unselected" scope="col">Actions</th>
                         <th className="table-head text-unselected" scope="col"></th>
                     </tr>
                 </thead>
